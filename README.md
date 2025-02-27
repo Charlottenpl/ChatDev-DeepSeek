@@ -1,3 +1,5 @@
+> deepseek 兼容版本，目前只兼容了DeepSeek-V3，由于R1严格要求对话顺序（用户-AI-用户—AI），现在还不能直接使用，需要对逻辑做修改。
+
 # Communicative Agents for Software Development
 
 <p align="center">
